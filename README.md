@@ -64,9 +64,6 @@ ExploreWithUS/
 git clone https://github.com/Avishkar5658/ExploreWithUS.git
 cd ExploreWithUS
 
-# 2. Build the image
-docker build -t explorewithus:v1 .
-
 # 3. Start the container
 docker-compose up -d
 ```
